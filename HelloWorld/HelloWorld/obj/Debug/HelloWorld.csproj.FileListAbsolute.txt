@@ -5,3 +5,10 @@ C:\Users\acdc\Desktop\Study\C#\C# Players Guide\repos\HelloWorld\HelloWorld\obj\
 C:\Users\acdc\Desktop\Study\C#\C# Players Guide\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\acdc\Desktop\Study\C#\C# Players Guide\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\acdc\Desktop\Study\C#\C# Players Guide\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\eMajin\Source\Repos\eMajin96\C-Players-Guide\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\eMajin\Source\Repos\eMajin96\C-Players-Guide\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\eMajin\Source\Repos\eMajin96\C-Players-Guide\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\eMajin\Source\Repos\eMajin96\C-Players-Guide\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\eMajin\Source\Repos\eMajin96\C-Players-Guide\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\eMajin\Source\Repos\eMajin96\C-Players-Guide\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\eMajin\Source\Repos\eMajin96\C-Players-Guide\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
