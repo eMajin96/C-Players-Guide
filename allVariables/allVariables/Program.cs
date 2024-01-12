@@ -48,13 +48,19 @@ namespace allVariables
             //Other Simple Types (All The Above are Simple Types)
             #region Other Simple Types
 
+            bool BooleanVar = true;
+
+            #endregion
+
+            //String Type
+            #region String Type
+
             string StringVar = "This is a string";
 
             #endregion
 
             Console.Write(StringVar);
             Console.ReadKey();
-
         }
     }
 }
